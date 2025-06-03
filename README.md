@@ -9,12 +9,12 @@
 
 O trabalho consiste na implementação de duas novas chamadas de sistema (*syscalls*) no kernel Linux, com o objetivo de manipular um modo de energia global do sistema. A funcionalidade implementada permite:
 
-Definir (*set*) o modo de energia:
+- Definir (*set*) o modo de energia:
 
-- 0 → Modo normal
-- 1 → Modo turbo
+  - 0 → Modo normal
+  - 1 → Modo turbo
 
-Consultar (*get*) o modo de energia atual.
+- Consultar (*get*) o modo de energia atual.
 
 As syscalls permitem que aplicações em espaço de usuário possam alterar ou consultar o estado de energia do sistema, simulando um controle simplificado de políticas energéticas.
 
