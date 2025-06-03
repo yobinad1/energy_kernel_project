@@ -4,7 +4,8 @@
 - Daniel Henriques Pamplona - RA: 260401
 - Gabriel Pavani Giro - RA: 247114
 - Jonatas de Sousa Santos - RA: 225334
-
+- Luiz Eduardo Silva Salustriano - RA: 183139
+- Matheus Rufino da Silva - RA: 221756
 ## Descrição geral
 
 O trabalho consiste na implementação de duas novas chamadas de sistema (*syscalls*) no kernel Linux, com o objetivo de manipular um modo de energia global do sistema. A funcionalidade implementada permite:
